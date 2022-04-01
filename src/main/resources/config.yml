@@ -1,0 +1,3 @@
+#Only config setting is the default VAT rate (5 is 5%, 5.5 is 5.5%, etc.)
+default-vat-rate: 5.00
+log-prefix: "&8[&6LandsVAT&8]&r"

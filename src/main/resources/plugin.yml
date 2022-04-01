@@ -1,0 +1,7 @@
+name: LandsVat
+version: '${project.version}'
+main: com.github.carthax08.landsvat.Landsvat
+softdepend: [ Lands ]
+authors: [ CarThax08 ]
+description: A VAT plugin for Lands (Developed for Country Craft RP)
+api-version: 1.18
